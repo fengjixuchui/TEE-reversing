@@ -133,6 +133,11 @@
 - Intel SGX Explained by Victor Costan and Srinivas Devadas
 	- https://css.csail.mit.edu/6.858/2017/readings/costan-sgx.pdf
 
+## OP-TEE
+- Fuzzing Embedded (Trusted) Operating Systems Using AFL (Martijn Bogaard | nullcon Goa 2019)
+	- slides: https://nullcon.net/website/archives/pdf/bangalore-2019/fuzzing-embedded-(trusted)-operating-systems%20using-AFL.pdf
+	- video: https://www.youtube.com/watch?v=AZhxZlwZ160
+
 # TEE Secure Boot
 
 - Reverse Engineering Samsung S6 SBOOT - Part I & II
@@ -216,3 +221,7 @@
 - Boomerang: Exploiting the Semantic Gap in Trusted Execution Environments (A.Machiry) 2017
 	- https://pdfs.semanticscholar.org/f62b/db9f1950329f59dc467238737d2de1a1bac4.pdf (slides)
 	- http://sites.cs.ucsb.edu/~cspensky/pdfs/ndss17-final227.pdf (paper)
+
+- TEE research (Some useful IDA and Ghidra plugins for TEE research)
+	- https://github.com/bkerler/tee_research
+
