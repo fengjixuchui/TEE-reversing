@@ -138,6 +138,11 @@
 	- slides: https://nullcon.net/website/archives/pdf/bangalore-2019/fuzzing-embedded-(trusted)-operating-systems%20using-AFL.pdf
 	- video: https://www.youtube.com/watch?v=AZhxZlwZ160
 
+# TEE Fuzzing
+
+- PARTEMU: Enabling Dynamic Analysis of Real-World TrustZone Software Using Emulation 
+	- https://people.eecs.berkeley.edu/~rohanpadhye/files/partemu-usenixsec20.pdf
+
 # TEE Secure Boot
 
 - Reverse Engineering Samsung S6 SBOOT - Part I & II
@@ -166,6 +171,12 @@
 	- https://www.youtube.com/watch?v=QFFhdqP7Dxg
 	- https://www.youtube.com/watch?v=MdoGCXGHGnY
 
+- An infestation of dragons: Exploring vulnerabilities in the ARM TrustZone architecture by Josh Thomas and Charles Holmes Android Security Symposium in Vienna, Austria, 9-11 September 2015
+	- https://www.youtube.com/watch?v=vxNGgOR-iVM
+
+- Android and trusted execution environments by Jan-Erik Ekberg (Trustonic) at the Android Security Symposium in Vienna, Austria, 9-11 September 2015
+	- https://www.youtube.com/watch?v=5542lEk3OAM
+
 - 34C3 2017 - Console Security - Switch by Plutoo, Derrek and Naehrwert
 	- https://media.ccc.de/v/34c3-8941-console_security_-_switch
 
@@ -185,6 +196,9 @@
 
 - BH US 2014 - Reflections on Trusting TrustZone by Dan Rosenberg
 	- https://www.youtube.com/watch?v=7w40mS5yLjc
+
+- ARM TrustZone for dummies by Tim Hummels
+	- https://www.youtube.com/watch?v=ecBByjwny3s
 
 # Tools
 
