@@ -32,6 +32,7 @@
 - EL3 Tour : Get the Ultimate Privilege of Android Phone (Infiltrate19)
 	- https://speakerdeck.com/hhj4ck/el3-tour-get-the-ultimate-privilege-of-android-phone
 	- Paper : [infiltrate.pdf](https://github.com/enovella/TEE-reversing/blob/master/Papers/infiltrate.pdf)
+	- video: https://vimeo.com/335948808
 
 - Nailgun: Break the privilege isolation in ARM devices (PoC #2 only)
 	- https://github.com/ningzhenyu/nailgun
@@ -111,6 +112,7 @@
 - TEE Exploitation on Samsung Exynos devices by Eloi Sanfelix: Parts I, II, III, IV
 	- https://labs.bluefrostsecurity.de/blog/2019/05/27/tee-exploitation-on-samsung-exynos-devices-introduction/
 	- https://labs.bluefrostsecurity.de/files/TEE.pdf
+	- video: (Infiltrate 2019) https://vimeo.com/335947683
 
 - Breaking Samsung's ARM TrustZone (BlackHat USA 2019)
 	- https://i.blackhat.com/USA-19/Thursday/us-19-Peterlin-Breaking-Samsungs-ARM-TrustZone.pdf
