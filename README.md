@@ -19,8 +19,10 @@
 	- http://sefcom.asu.edu/publications/trustzone-explained-cic2016.pdf
 
 - Trustworthy Execution on Mobile Devices
-	- https://netsec.ethz.ch/publications/papers/paper-hyperphone-TRUST-2012.pdf
+        - https://netsec.ethz.ch/publications/papers/paper-hyperphone-TRUST-2012.pdf
 
+- A Deep Dive into Samsung's trustzone (Part 1 - intro)
+        - https://blog.quarkslab.com/a-deep-dive-into-samsungs-trustzone-part-1.html
 
 # TEE Exploits/Security Analysis
 
@@ -115,7 +117,8 @@
 	- video: (Infiltrate 2019) https://vimeo.com/335947683
 
 - Breaking Samsung's ARM TrustZone (BlackHat USA 2019)
-	- https://i.blackhat.com/USA-19/Thursday/us-19-Peterlin-Breaking-Samsungs-ARM-TrustZone.pdf
+	- slides: https://i.blackhat.com/USA-19/Thursday/us-19-Peterlin-Breaking-Samsungs-ARM-TrustZone.pdf
+	- video: https://www.youtube.com/watch?v=uXH5LJGRwXI&list=PLH15HpR5qRsWrfkjwFSI256x1u2Zy49VI&index=30
 
 - Launching feedback-driven fuzzing on TrustZone TEE (HITBGSEC2019)
 	- https://gsec.hitb.org/materials/sg2019/D2%20-%20Launching%20Feedback-Driven%20Fuzzing%20on%20TrustZone%20TEE%20-%20Andrey%20Akimov.pdf
