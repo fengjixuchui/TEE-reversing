@@ -130,8 +130,9 @@
 	- https://gsec.hitb.org/materials/sg2019/D2%20-%20Launching%20Feedback-Driven%20Fuzzing%20on%20TrustZone%20TEE%20-%20Andrey%20Akimov.pdf
 
 - A Deep Dive into Samsung's trustzone
-    - (Part 1 - intro) https://blog.quarkslab.com/a-deep-dive-into-samsungs-trustzone-part-1.html
-    - (Part 2 - fuzzing TAs) https://blog.quarkslab.com/a-deep-dive-into-samsungs-trustzone-part-2.html
+	- (Part 1 - intro) https://blog.quarkslab.com/a-deep-dive-into-samsungs-trustzone-part-1.html
+	- (Part 2 - fuzzing TAs) https://blog.quarkslab.com/a-deep-dive-into-samsungs-trustzone-part-2.html
+	- (Part 3 - exploiting EL3) https://blog.quarkslab.com/a-deep-dive-into-samsungs-trustzone-part-3.html
 
 ## Samsung (TEEGRIS)
 
@@ -186,6 +187,9 @@
 
 - Qualcomm Secure Boot and Image Authentication Technical Overview
 	- https://www.qualcomm.com/documents/secure-boot-and-image-authentication-technical-overview-v20
+	
+- Breaking Samsung's Root of Trust - Exploiting Samsung Secure Boot (BlackHat 2020)
+	- https://teamt5.org/en/posts/blackhat-s-talk-breaking-samsung-s-root-of-trust-exploiting-samsung-secure-boot/
 
 # TEE Videos
 
